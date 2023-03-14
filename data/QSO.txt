@@ -1,0 +1,3 @@
+
+[QSO Log] Call: WRQC822 | Date: 10/3/4 | Frequency/Band: 8999.99 | Grid: Test
+[QSO Log] Call: KB9VBR | Date: 3/14/23 | Frequency/Band: 147.165 | Grid: UK
